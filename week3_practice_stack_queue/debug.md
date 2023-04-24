@@ -1,0 +1,3 @@
+# Notes
+1. PLEASE PLAY WITH AN EASY EXAMPLE WHENEVER DEBUGGING!!! OMG...
+2. Trace all the value for this easy example to ensure that your function work as expected.
